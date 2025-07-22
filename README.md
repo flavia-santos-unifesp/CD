@@ -7,6 +7,7 @@ Circuitos Digitais
 Ele integra sensores para frequência cardíaca (FC), saturação de oxigênio (SpO2) e temperatura corporal, processando esses dados para gerar um Índice de Saúde e um Alarme Crítico.
 
 **O Desafio**
+
 Parte do Ideathon-CD, o projeto busca uma solução tecnológica inovadora para o ODS 3. A crescente demanda por monitoramento domiciliar de saúde justifica o desenvolvimento de dispositivos acessíveis e integrados.
 
 **Funcionalidades**
