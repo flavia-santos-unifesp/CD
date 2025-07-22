@@ -11,6 +11,7 @@ Ele integra sensores para frequência cardíaca (FC), saturação de oxigênio (
 Parte do Ideathon-CD, o projeto busca uma solução tecnológica inovadora para o ODS 3. A crescente demanda por monitoramento domiciliar de saúde justifica o desenvolvimento de dispositivos acessíveis e integrados.
 
 **Funcionalidades**
+
 O sistema recebe dados de três sensores principais, já em formato digital:
 
 Frequência Cardíaca (FC): Entrada numérica de 5 bits, cobrindo de 40 a 120 bpm.
@@ -26,9 +27,11 @@ LEDs Visuais: Indicam o estado geral: Verde (normal), Azul (um sinal alterado), 
 Um Flip-Flop SR mantém o alarme crítico ativado mesmo após a condição momentânea de risco cessar, exigindo um reset manual.
 
 **Implementação**
+
 O protótipo foi desenvolvido no software WiredPanda. Inclui circuitos lógicos, aritméticos, e componentes sequenciais (Flip-Flops).
 
 **Como Usar (WiredPanda)**
+
 Baixe o arquivo do circuito .wp.
 
 Abra o WiredPanda e carregue o circuito.
@@ -40,6 +43,7 @@ Observe as saídas (LEDs de saúde, display do Índice de Saúde e o LED/buzzer 
 Utilize o botão de reset para desativar o alarme crítico travado.
 
 **Contribuições**
+
 Caroline Carvalho
 Flavia Fernandes
 Isabela Diniz Carvalho
