@@ -45,5 +45,7 @@ Utilize o botão de reset para desativar o alarme crítico travado.
 **Contribuições**
 
 Caroline Carvalho
+
 Flavia Fernandes
+
 Isabela Diniz Carvalho
